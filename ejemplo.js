@@ -1,0 +1,13 @@
+var nombre = "Ana";
+console.log("Hola " + nombre);
+var edad = 22;
+console.log("tienes " + edad);
+var dato = "Calle 27";
+var calificacion = 8.5;
+var puntosExtras = 1.2;
+var calificacionFinal = calificacion + puntosExtras;
+console.log("Calificacion final  " + calificacionFinal);
+var str = "1";
+var str2 = str;
+console.log(typeof (str2));
+console.log(str2);
